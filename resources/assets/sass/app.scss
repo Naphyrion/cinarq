@@ -1,0 +1,19 @@
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+//Font Awesome
+@import '~@fortawesome/fontawesome-free-webfonts/scss/fa-brands';
+@import '~@fortawesome/fontawesome-free-webfonts/scss/fa-regular';
+@import '~@fortawesome/fontawesome-free-webfonts/scss/fa-solid';
+@import '~@fortawesome/fontawesome-free-webfonts/scss/fontawesome';
+//animate.css
+@import "~animate.css/animate.css";
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+*:focus { outline: none; } 
